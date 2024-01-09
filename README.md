@@ -57,7 +57,7 @@ Once both the simulation and the script are running, you can teleoperate the Tur
 
 
 ## Authors
-- Your Name - *Initial work* - [Greg7909](https://github.com/Greg7900)
+- Your Name - *Initial work* - [Greg7900](https://github.com/Greg7900)
 
 ## Acknowledgments
 - Moi
