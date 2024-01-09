@@ -61,4 +61,3 @@ Once both the simulation and the script are running, you can teleoperate the Tur
 
 ## Acknowledgments
 - Moi
-```
