@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository into your ROS workspace (e.g., `catkin_ws`):
 ```bash
 cd ~/tur_ws/src
-git clone [URL to your GitHub repository]
+git clone https://github.com/Greg7900/TurtleBot3_Niryo_Teleop.git
 cd ..
 catkin build
 ```
@@ -59,7 +59,7 @@ Once both the simulation and the script are running, you can teleoperate the Tur
 Please read [CONTRIBUTING.md](link-to-your-contributing-md-file) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
-- Your Name - *Initial work* - [YourGitHubUsername](link-to-your-github-profile)
+- Your Name - *Initial work* - [Greg7909](link-to-your-github-profile)
 
 ## License
 This project is licensed under the [Your License] License - see the [LICENSE.md](link-to-your-license-file) file for details.
