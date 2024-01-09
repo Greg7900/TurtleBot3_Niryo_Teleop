@@ -55,19 +55,10 @@ python3 robot_ned.py
 ## Usage
 Once both the simulation and the script are running, you can teleoperate the TurtleBot3 Burger using the interface provided by the Niryo Ned system.
 
-## Contributing
-Please read [CONTRIBUTING.md](link-to-your-contributing-md-file) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
-- Your Name - *Initial work* - [Greg7909](link-to-your-github-profile)
-
-## License
-This project is licensed under the [Your License] License - see the [LICENSE.md](link-to-your-license-file) file for details.
+- Your Name - *Initial work* - [Greg7909](https://github.com/Greg7900)
 
 ## Acknowledgments
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Moi
 ```
-
-Remember to replace the placeholders (like `[URL to your GitHub repository]`, `[Your License]`, `Your Name`, `[YourGitHubUsername]`, `[link-to-your-license-file]`, and `[link-to-your-contributing-md-file]`) with the actual details relevant to your project.
