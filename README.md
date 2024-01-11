@@ -49,7 +49,7 @@ roslaunch tur_niryo_manipulator desktop_gazebo_simulation.launch
 2. In a new terminal, navigate to the project's node directory and run the main script:
 ```bash
 cd tur_ws/src/tur_niryo_manipulator/nodes
-python3 robot_ned.py
+python3 robot_ned
 ```
 
 ## Usage
