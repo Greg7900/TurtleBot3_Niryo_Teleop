@@ -43,6 +43,7 @@ To launch the TurtleBot3 Burger and Niryo Ned simulation, use the following comm
 
 1. Launch the desktop Gazebo simulation:
 ```bash
+source devel/setup.bash
 roslaunch tur_niryo_manipulator desktop_gazebo_simulation.launch
 ```
 
